@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : NFM31HK153R1H3L.LibPkg
+
+Section : C:\Users\evrim\Desktop\muh tas kütüphane\NFM31HK153R1H3L.lia
+    Section : PCB Library - NFM31HK153R1H3L.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token NFM31HK153R1H3L On Line 136
+            Warning - 1 : Skipping Token attachedSymbol On Line 191
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - NFM31HK153R1H3L.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 124
+            Warning - 1 : Skipping Token layerContents On Line 130
+        EndSection
+
+        Section : Generating SCH Library - NFM31HK153R1H3L.SchLib
+        EndSection
+    EndSection
+EndSection

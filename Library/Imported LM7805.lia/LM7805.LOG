@@ -1,0 +1,37 @@
+PCAD Importer Log
+Project : LM7805.LibPkg
+
+Section : C:\Users\evrim\Desktop\muh tas kütüphane\LM7805.lia
+    Section : PCB Library - LM7805.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 108
+            Warning - 1 : Skipping Token isVisible On Line 109
+            Warning - 1 : Skipping Token isVisible On Line 110
+            Warning - 1 : Skipping Token isVisible On Line 133
+            Warning - 1 : Skipping Token isVisible On Line 134
+            Warning - 1 : Skipping Token isVisible On Line 135
+            Warning - 1 : Skipping Token LM7805C On Line 214
+            Warning - 1 : Skipping Token attachedSymbol On Line 271
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LM7805.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 105
+            Warning - 1 : Skipping Token layerContents On Line 130
+            Warning - 1 : Skipping Token layerContents On Line 155
+            Warning - 1 : Skipping Token layerContents On Line 204
+            Warning - 1 : Skipping Token layerContents On Line 208
+        EndSection
+
+        Section : Generating SCH Library - LM7805.SchLib
+        EndSection
+    EndSection
+EndSection

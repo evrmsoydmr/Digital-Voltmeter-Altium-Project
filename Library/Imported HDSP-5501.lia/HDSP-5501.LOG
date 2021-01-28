@@ -1,0 +1,45 @@
+PCAD Importer Log
+Project : HDSP-5501.LibPkg
+
+Section : C:\Users\evrim\Desktop\muh tas kütüphane\HDSP-5501.lia
+    Section : PCB Library - HDSP-5501.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 7SEG-CA2 On Line 212
+            Warning - 1 : Skipping Token attachedSymbol On Line 376
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - HDSP-5501.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 156
+            Warning - 1 : Skipping Token isVisible On Line 327
+            Warning - 1 : Skipping Token isVisible On Line 328
+            Warning - 1 : Skipping Token isVisible On Line 329
+            Warning - 1 : Skipping Token isVisible On Line 330
+            Warning - 1 : Skipping Token isVisible On Line 331
+            Warning - 1 : Skipping Token isVisible On Line 332
+            Warning - 1 : Skipping Token isVisible On Line 335
+            Warning - 1 : Skipping Token isVisible On Line 336
+            Warning - 1 : Skipping Token isVisible On Line 337
+            Warning - 1 : Skipping Token isVisible On Line 338
+            Warning - 1 : Skipping Token isVisible On Line 339
+            Warning - 1 : Skipping Token isVisible On Line 340
+            Warning - 1 : Skipping Token isVisible On Line 341
+            Warning - 1 : Skipping Token isVisible On Line 342
+            Warning - 1 : Skipping Token isVisible On Line 343
+            Warning - 1 : Skipping Token isVisible On Line 344
+            Warning - 1 : Skipping Token isVisible On Line 345
+            Warning - 1 : Skipping Token isVisible On Line 346
+        EndSection
+
+        Section : Generating SCH Library - HDSP-5501.SchLib
+        EndSection
+    EndSection
+EndSection

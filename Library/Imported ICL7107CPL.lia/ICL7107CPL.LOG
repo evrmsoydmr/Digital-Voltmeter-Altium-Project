@@ -1,0 +1,32 @@
+PCAD Importer Log
+Project : ICL7107CPL.LibPkg
+
+Section : C:\Users\evrim\Desktop\muh tas kütüphane\ICL7107CPL.lia
+    Section : PCB Library - ICL7107CPL.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ICL7107 On Line 510
+            Warning - 1 : Skipping Token attachedSymbol On Line 937
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ICL7107CPL.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 150
+            Warning - 1 : Skipping Token layerContents On Line 155
+            Warning - 1 : Skipping Token layerContents On Line 161
+            Warning - 1 : Skipping Token layerContents On Line 170
+            Warning - 1 : Skipping Token multiLayer On Line 186
+            Warning - 1 : Skipping Token layerContents On Line 232
+        EndSection
+
+        Section : Generating SCH Library - ICL7107CPL.SchLib
+        EndSection
+    EndSection
+EndSection

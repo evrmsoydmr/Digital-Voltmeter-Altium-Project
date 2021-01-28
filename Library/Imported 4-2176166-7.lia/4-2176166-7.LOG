@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : 4-2176166-7.LibPkg
+
+Section : C:\Users\evrim\Desktop\muh tas kütüphane\4-2176166-7.lia
+    Section : PCB Library - 4-2176166-7.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 4-2176166-7 On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 170
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 4-2176166-7.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 110
+        EndSection
+
+        Section : Generating SCH Library - 4-2176166-7.SchLib
+        EndSection
+    EndSection
+EndSection
