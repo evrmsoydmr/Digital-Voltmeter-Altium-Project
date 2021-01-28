@@ -1,1 +1,1 @@
-# Digital-Voltmeter-Altium-Project
+# Digital-Voltmeter-Altium Designer-Project
